@@ -5,9 +5,9 @@ Why Enumerate S3 Buckets?
 
 Enumerating S3 buckets can be important for several reasons:
 
-    Security Testing: Identifying misconfigured or publicly accessible buckets to ensure sensitive data is not exposed.
-    Data Discovery: Finding publicly available data which could be used for competitive analysis, research, or to gather information about a company.
-    Penetration Testing: Ethical hackers often look for publicly accessible S3 buckets as part of their security assessments to highlight potential security issues.
+1. Security Testing: Identifying misconfigured or publicly accessible buckets to ensure sensitive data is not exposed.
+2. Data Discovery  : Finding publicly available data which could be used for competitive analysis, research, or to gather information about a company.
+3. Penetration Testing: Ethical hackers often look for publicly accessible S3 buckets as part of their security assessments to highlight potential security issues.
 
 How This Tool Works
 
